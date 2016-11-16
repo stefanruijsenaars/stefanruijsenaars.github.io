@@ -12,7 +12,7 @@ baseurl:             "https://www.stefanruijsenaars.com"
 #
 # We specify the directory for Jekyll so we can use @imports.
 sass:
-  sass_dir:          _sass
+  sass_dir:          blog/_sass
   style:            :compressed
 
 # About/contact
