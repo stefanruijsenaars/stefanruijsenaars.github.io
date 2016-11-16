@@ -16,7 +16,7 @@ Fish comes with a whole bunch of goodies. While most of them are available for b
 
 To me, the truly killer ones are the **autosuggestions** and the **tab completion**. Fish suggests commands in a smart way, based on your history, previous completion picks, and valid file paths (including [implicit cd](https://github.com/fish-shell/fish-shell/issues/22)). As you type a command, you'll see the suggestion right after the cursor, in gray. To accept, you only need to press right arrow.
 
-Fish will also make a great guess whenever you press <tab>. If there is more than one completion, you can tab through all the possible ones. And when you do it for a command line option, it integrates with the man pages, showing all the available switches. It also does lots and lots of general purpose and program-specific [completions](http://fishshell.com/docs/current/index.html) (git, mount, ssh, su, ...).
+Fish will also make a great guess whenever you press `<tab>`. If there is more than one completion, you can tab through all the possible ones. And when you do it for a command line option, it integrates with the man pages, showing all the available switches. It also does lots and lots of general purpose and program-specific [completions](http://fishshell.com/docs/current/index.html#completion) (git, mount, ssh, su, ...).
 
 Further *awesome* features include:
 

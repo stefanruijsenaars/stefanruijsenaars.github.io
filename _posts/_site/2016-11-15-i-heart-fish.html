@@ -1,0 +1,34 @@
+<p><img src="/blog/assets/prison.png" alt="twitter post" /></p>
+
+<p>After learning that a good friend would “rather go to prison than use bash”, I decided to finally give fish a try.</p>
+
+<p>Fish, as in <a href="https://fishshell.com">fish</a>, his preferred shell :).</p>
+
+<p>Most of my developer friends use bash (some of the more hardcore ones use zsh), and personally I have been using bash almost every day since I was a teenager. Despite all of its shortcomings, I have grown very fond of it – besides my browser, it’s probably the place I spend the most time in. But having used fish for a few months as my default shell, I am now a convert, and I likely will remain one.</p>
+
+<p>Fish comes with a whole bunch of goodies. While most of them are available for bash as well, but with fish they all work out of the box, with no configuration needed.</p>
+
+<p>To me, the truly killer ones are the <strong>autosuggestions</strong> and the <strong>tab completion</strong>. Fish suggests commands in a smart way, based on your history, previous completion picks, and valid file paths (including <a href="https://github.com/fish-shell/fish-shell/issues/22">implicit cd</a>). As you type a command, you’ll see the suggestion right after the cursor, in gray. To accept, you only need to press right arrow.</p>
+
+<p>Fish will also make a great guess whenever you press <tab>. If there is more than one completion, you can tab through all the possible ones. And when you do it for a command line option, it integrates with the man pages, showing all the available switches. It also does lots and lots of general purpose and program-specific [completions](http://fishshell.com/docs/current/index.html) (git, mount, ssh, su, ...).</tab></p>
+
+<p>Further <em>awesome</em> features include:</p>
+
+<ul>
+  <li>No hidden settings, all the special features are on by default</li>
+  <li>Very fancy colors (256 of them), which truly offer extra visual feedback</li>
+  <li>Loooong command history (!)</li>
+  <li>Skips duplicates in your history</li>
+  <li>For partial commands, the up arrow shows matching commands from your history only</li>
+  <li>Wildcards</li>
+  <li>A web based configuration interface</li>
+  <li>It’s <em>fast</em></li>
+  <li>A fantastic <a href="http://fishshell.com/docs/current/design.html">design document</a> outlining their design philosophy (the “Configurability is the root of all evil” one had me wildly nodding my head)</li>
+  <li>Backward history search (similar to ctrl+r in bash) using <a href="https://github.com/jbonjean/re-search">re-search</a></li>
+</ul>
+
+<p><a href="https://github.com/oh-my-fish/oh-my-fish">Oh my fish</a> is also a cool framework for the fish shell, adding such things as git integration (showing your current branch/git status), fancy themes, and the <a href="https://github.com/rupa/z">z</a> plugin, a fantastic tool that allows you to navigate to your most used directories using fuzzy commands.</p>
+
+<p>Overall this shell is just “the next level of convenience” (also © <a href="https://twitter.com/da_wehner/status/598589852888801282">Daniel Wehner</a>), and a true pleasure to use. It’s here to stay for me, and I strongly encourage you to <a href="https://fishshell.com/#platform_tabs">give it a try</a> as well!</p>
+
+<p>Just a note: this is not a POSIX shell – you may need to run bash-specific things with <code>bash -c</code> or use tools like <a href="https://github.com/edc/bass">bass</a>. Fish also comes with its own scripting language, which I haven’t looked into it yet – I still do my scripting in bash :).</p>
