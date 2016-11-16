@@ -33,6 +33,6 @@ Further awesome features include:
 
 [Oh my fish](https://github.com/oh-my-fish/oh-my-fish) is also a cool framework for the fish shell, adding such things as git integration (showing your current branch/git status), fancy themes, and the [z](https://github.com/rupa/z) plugin, a fantastic tool that allows you to navigate to your most used directories using fuzzy commands.
 
-Overall this shell is just "the next level of convenience" (also © [Daniel Wehner](https://twitter.com/da_wehner/status/598589852888801282), and a true pleasure to use. It's here to stay for me, and I strongly encourage you to give it a try as well, so [install it now](https://fishshell.com/#platform_tabs)!
+Overall this shell is just "the next level of convenience" (also © [Daniel Wehner](https://twitter.com/da_wehner/status/598589852888801282)), and a true pleasure to use. It's here to stay for me, and I strongly encourage you to give it a try as well, so [install it now](https://fishshell.com/#platform_tabs)!
 
 Just a note: this is not a POSIX shell -- you may need to run things with `bash -c` or use tools like [bass](https://github.com/edc/bass). Fish also comes with its own scripting language, I haven't bothered to look into it yet -- I still do my scripting in bash :).
