@@ -6,7 +6,7 @@ title: I ❤️ fish
 
 After learning that a good friend would "rather go to prison than use bash", I decided to finally give fish a try.
 
-![twitter post]({{ site.url }}/blog/assets/prison.png)
+![twitter post](/blog/assets/prison.png)
 
 Fish, as in [fish](https://fishshell.com), his preferred shell :)
 
