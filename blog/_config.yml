@@ -4,9 +4,9 @@ permalink:           pretty
 # Setup
 title:               Stefan Ruijsenaars
 tagline:             Blog 
-url:                 https://www.stefanruijsenaars.com/blog
+url:                 https://www.stefanruijsenaars.com
 paginate:            1
-baseurl:             "https://www.stefanruijsenaars.com"
+baseurl:             /blog
 
 # Assets
 #
