@@ -6,7 +6,7 @@ title:               Stefan Ruijsenaars
 tagline:             Blog 
 url:                 https://www.stefanruijsenaars.com
 paginate:            1
-baseurl:             /blog
+baseurl:             /
 
 # Assets
 #
