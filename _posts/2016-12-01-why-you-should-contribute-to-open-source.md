@@ -22,20 +22,20 @@ Everyone has their story, but some themes always come back:
 Fun
 ---
 
-The one thing everyone raves about is how incredibly fun and inspiring getting involved with these communities is. These sheer scale of them is impressive -- some of the larger open source communities (Mozilla, Drupal) have hundreds of thousands of people contributing. You'll get to meet some amazingly smart, interesting, and passionate people (and make friends with them). I have met fantastic people and made some life-long friends at conferences, and contributing has made me learn and grow in many ways. For me, working with these super smart peeps was definitely the main motivation.
+The one thing everyone raves about is how incredibly fun and inspiring getting involved with these communities is. These sheer scale of them is impressive -- some of the larger open source communities (Mozilla, Drupal) have hundreds of thousands of people contributing. You'll get to meet some amazingly smart, interesting, and passionate people (and make friends with them). I have met fantastic people and made some life-long friends at conferences, and contributing has made me learn and grow in many ways. For me, working with these super smart peeps is definitely the main motivation.
 
- Many people (including myself) love the sense of community, and the sense of accomplishment from working with others towards a shared goal by serving an effort they believe in.
+Many people (including myself) love the sense of community, and the sense of accomplishment from working with others towards a shared goal by serving an effort they believe in.
 
-And for those of you who have mind-numbing day jobs, or are the senior dev on a team and don't get to work much with more advanced developers, these projects are a great way to make programming fun again :).
+And for those of you who have mind-numbing day jobs, or who are the senior dev on a team and don't get to work much with more advanced developers much, these projects are a great way to make programming fun again :).
 
 Achievement
 -----------
 
 If you're achievement-oriented, you're in for a treat as well -- in any major project, there are many super interesting problems to solve and big and important tasks to tackle. Many of these problems are absolutely within reach with a bit of effort, and it's incredibly satisfying to make an impact like that.
 
-Open source is a do-ocracy, so if you're great at what you do, you *will* be identified, and if what you want is ownership and responsibility, you'll be given plenty of that, more than you'll know what to do with. And this can happen in months rather than years -- some contributors make meteoric rises.
+Open source is a do-ocracy, so if you're great at what you do, you *will* be identified, and if what you want is ownership and responsibility, you'll be given plenty of that -- more than you'll know what to do with. And this can happen in months rather than years -- some contributors make meteoric rises.
 
-If what you want is to showcase your skills, open source is a fantastic medium. Some very talented developers just plug away, keep their heads down and deliver fantastic work, but if no one knows about it, open source is great to break out of that and become known in the community.
+If what you want is to showcase your skills, open source is a fantastic medium. Some very talented developers just plug away, keep their heads down and deliver fantastic work, but if no one knows about it, open source is a great way to break out of that and become known in the community.
 
 Also, just a note to anyone who is merely dabbling in open source and has the time and inclination to step up and take on more important work but is too intimidated to approach major contributors (I know I was, initially), don't be. These are people who are super happy to help if they see you step up and deliver good work.
 
@@ -53,7 +53,7 @@ As you grow more established, you'll also get to teach people yourself, which is
 Career reasons
 --------------
 
-> "If you can grow into a recognized position in an open source project, that puts you ten steps ahead of applications even from folks with 20 years experience in the field"
+> "If you can grow into a recognized position in an open source project, that puts you ten steps ahead of applications even from folks with 20 years experience in the field" -- [Matt Mullenweg](https://ma.tt/2016/02/getting-a-job-after-coding-bootcamp/), CEO of Automattic
 
 For those just starting out, and perhaps looking for their first job [after a boot camp](https://ma.tt/2016/02/getting-a-job-after-coding-bootcamp/), or after college, open source is a *great* place for picking up (and improving) real-life professional skills. Your code will typically be subject to rigorous quality control -- more so than in many professional settings. Open source projects are the real deal -- you will learn more about programming and working in a team than in school.
 
