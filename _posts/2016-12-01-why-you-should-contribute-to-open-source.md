@@ -84,7 +84,7 @@ Ideally you contribute a feature that you need yourself, or a fix to some bug th
 
 If you don't know where to start, start with easier tasks -- write docs, write unit tests, write good bug reports, help with bug triage, review existing patches.
 
-Most of the larger open source projects have very clear documentation on how to get involved, so look for that! These days (with GitHub) it's easier than ever to at least submit a pull request.
+Most of the larger open source projects have very clear [documentation](https://contribute.jquery.org/open-source/) on how to get involved, so look for that! These days (with GitHub) it's easier than ever to at least submit a pull request.
 
 So get out there and contribute!
 --------------------------------
