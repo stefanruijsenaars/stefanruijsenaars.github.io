@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-title: Why you should contribute to open source, too
+title: Why you should contribute to open source too
 ---
 The average fully employed developer spends [more than 6 hours every week](http://stackoverflow.com/research/developer-survey-2015) working on open source, side- or hobby projects:
 
@@ -13,7 +13,7 @@ Wait, what? Why do so many people work for free, in their spare time... on top o
 
 Some of the best developers I know are prolific open source contributors, and contribute because they love programming (and others are also fantastic developers, but either haven't made the plunge, or just have zero interest in contributing to open source -- they have other priorities, and their day job is enough programming for them).
 
-Personally, I've invested a large part of my life into open source -- partly out of altruism, partly as part of my job, and partly for more selfish reasons (my current main commitments are the [Drupal security team](https://security.drupal.org/team-members), Drupal core maintenance as a [Release Manager/Product Manager](https://api.drupal.org/api/drupal/core%21MAINTAINERS.txt/8.2.x), and maintaining [some 30+ contrib modules](https://www.drupal.org/u/stefanr-0).
+Personally, I've invested a large part of my life into open source -- partly out of altruism, partly as part of my job, and partly for more selfish reasons (my current main commitments are the [Drupal security team](https://security.drupal.org/team-members), Drupal core maintenance as a [core committer](https://api.drupal.org/api/drupal/core%21MAINTAINERS.txt/8.2.x), and maintaining [some 30+ contrib modules](https://www.drupal.org/u/stefanr-0)).
 
 This article is for those of you who are still on the fence about getting involved with a major open source project. Whether you're just starting out, mid-level, or very established already, many open source projects *desperately* need your help!
 
