@@ -5,9 +5,9 @@ title: Why you should contribute to open source
 ---
 The average fully employed developer spends [more than 6 hours every week](http://stackoverflow.com/research/developer-survey-2015) working on open source, side- or hobby projects:
 
-![stats](/blog/assets/image1.png)
+![stats](/assets/image1.png)
 
-![stats](/blog/assets/image2.png)
+![stats](/assets/image2.png)
 
 Wait, what? Why do so many people work for free, in their spare time... besides their studies and full time jobs, essentially taking on a second job?
 
@@ -42,7 +42,7 @@ Also, just a note to anyone who is merely dabbling in open source and has the ti
 Learning and mentorship
 -----------------------
 
-![yoda](/blog/assets/yoda.png)
+![yoda](/assets/yoda.png)
 
 Open source communities are great places to work on your skills and pick up some fantastic mentors that can supercharge your development. Main contributors to larger projects are invariably super impressive, and happy to help out.
 
@@ -66,7 +66,7 @@ Give back and be useful
 
 Many people also contribute to these projects because they use them, because they love the open source idea, out of pure altruism, or because they love the sense of purpose that feeling useful gives them.
 
-![feelsgoodman.png](/blog/assets/feelsgoodman.png)
+![feelsgoodman.png](/assets/feelsgoodman.png)
 
 There is also a great sense of pride and satisfaction whenever you receive some praise and gratitude for your contributions -- or even just getting the personal credit and feeling the direct impact of the work.
 
@@ -79,7 +79,7 @@ While you could just pick a [random beginner-friendly project](https://openhatch
 
 Ideally you contribute a feature that you need yourself, or a fix to some bug that may be bothering you. For me, my first major contribution was back when I used Linux ([lfs!](http://linuxfromscratch.org/)) and my favorite media player was [MPlayer](http://www.mplayerhq.hu/). I used often used the command line player to watch videos, and was bothered by the lack of any visual feedback on what the current position of the playback was while fast-forwarding. So I added a progress bar to the On-Screen Display -- and sent the patch to their mailing list. Only a few revisions later, it was merged into their codebase, which for my 15 year old self felt like a tremendous accomplishement :)
 
-![osd](/blog/assets/osd.png)
+![osd](/assets/osd.png)
 *Progress bars, yay!*
 
 If you don't know where to start, start with easier tasks -- write docs, write unit tests, write good bug reports, help with bug triage, review existing patches.
@@ -91,7 +91,7 @@ So get out there and contribute!
 
 Contributing to open source has been great for me on a personal and on a professional level, and I highly recommend any developer to get into it as well. Getting started can be rough, but once, but after the first contribution it definitely gets much easier. One thing -- this is NOT easy. Be prepared for code not to be committed, for it to be ripped to shreds, for abuse, politics, and plenty of BS. It needs a certain personality type -- the best contributors are very competent, self-motivated, disciplined, persuasive, extremely proactive, very persistent, and truly relentless.
 
-![ninjas](/blog/assets/ninja.png)
+![ninjas](/assets/ninja.png)
 *No, not like this*
 
 And don't just engage in GitHub/IRC -- go to conferences/meetups and talk to contributors about gettting involved more deeply! Ask about their own motivations, find out what they get out their involvement, because they are the best testament to what immense personal benefits people can get out of open source.
