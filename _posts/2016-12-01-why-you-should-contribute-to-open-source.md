@@ -28,7 +28,7 @@ The one thing everyone raves about is how incredibly fun and inspiring getting i
 
 Many people (including myself) love the sense of community, and the sense of accomplishment from working with others towards a shared goal by serving an effort they believe in.
 
-And for those of you who have mind-numbing day jobs, or who are the senior dev on a team and don't get to work much with more advanced developers much, these projects are a great way to make programming fun again :).
+And for those of you who have mind-numbing day jobs, or who are the senior dev on a team and don't get to work much with more advanced developers much, these projects are a great way to make programming fun again!
 
 Achievement
 -----------
@@ -81,7 +81,7 @@ So where should I start?
 
 While you could just pick a [random beginner-friendly project](https://openhatch.org/) that you only have a bit of interest in, in my opinion the single most important thing is to pick a project you are intimately familiar with and that scratches your itch as well -- in the end working on something that matters to you will be a better motivation than any other. And having a good understanding of all the use cases and pains is also a bit of a prerequisite for doing more important work.
 
-Ideally you contribute a feature that you need yourself, or a fix to some bug that is bothering you. For me, I made my first major contribution back when I used Linux ([lfs!](http://linuxfromscratch.org/)) and my favorite media player was [MPlayer](http://www.mplayerhq.hu/). I used often used the command line player to watch videos and was bothered by the lack of any visual feedback on what the current position of the playback was while fast-forwarding. So I added a progress bar to the On-Screen Display (for purely selfish reasons) and sent the patch to their mailing list. Only a few revisions later, it was merged into their codebase, which to my 15-year-old self felt like a tremendous accomplishment :)
+Ideally you contribute a feature that you need yourself, or a fix to some bug that is bothering you. For me, I made my first major contribution back when I used Linux ([lfs!](http://linuxfromscratch.org/)) and my favorite media player was [MPlayer](http://www.mplayerhq.hu/). I used often used the command line player to watch videos and was bothered by the lack of any visual feedback on what the current position of the playback was while fast-forwarding. So I added a progress bar to the On-Screen Display (for purely selfish reasons) and sent the patch to their mailing list. Only a few revisions later, it was merged into their codebase, which to my 15-year-old self felt like a tremendous accomplishment!
 
 ![osd](/assets/osd.png)
 *Progress bars, yay!*
